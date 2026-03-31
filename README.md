@@ -27,8 +27,12 @@ Desenvolvedor Full Stack de Maringá/PR. Trabalho com web no dia a dia e constru
 ### GitHub Stats
 
 <div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DioniDC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioniDC&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/DioniDC">
+    <img height=200 align="center" src="https://github-readme-stats-dioni-dias-projects.vercel.app/api?username=DioniDC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" />
+  </a>
+  <a href="https://github.com/DioniDC">
+    <img height=200 align="center" src="https://github-readme-stats-dioni-dias-projects.vercel.app/api/top-langs/?username=DioniDC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320&locale=pt-br" />
+  </a>
 </div>
 
 ---
