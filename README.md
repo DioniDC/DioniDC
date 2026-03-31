@@ -28,10 +28,10 @@ Desenvolvedor Full Stack de Maringá/PR. Trabalho com web no dia a dia e constru
 
 <div>
   <a href="https://github.com/DioniDC">
-    <img height=200 align="center" src="https://github-readme-stats-psi-seven-38.vercel.app/api?username=DioniDC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" />
+    <img height=200 align="center" src="https://github-readme-stats-psi-seven-38.vercel.app/api?username=DioniDC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br&v=2" />
   </a>
   <a href="https://github.com/DioniDC">
-    <img height=200 align="center" src="https://github-readme-stats-psi-seven-38.vercel.app/api/top-langs/?username=DioniDC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320&locale=pt-br" />
+    <img height=200 align="center" src="https://github-readme-stats-psi-seven-38.vercel.app/api/top-langs/?username=DioniDC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320&locale=pt-br&v=2" />
   </a>
 </div>
 
